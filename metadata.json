@@ -1,0 +1,5 @@
+{
+  "name": "Bitcoin-Backed Time Capsule",
+  "description": "A decentralized application (dApp) frontend for creating and managing digital time capsules on the Stacks blockchain. Users can create, lock, unlock, and cancel time capsules.",
+  "requestFramePermissions": []
+}
